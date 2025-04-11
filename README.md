@@ -4,7 +4,7 @@
 - repository 만들기 실습 중
 - git 특강 진행 중
 - 재밌습니다
-- markdown 문법을 배워야겠da
+- markdown 문법 배워야겠다~
 ------
 
 ## 🤸‍♀️이력
@@ -15,7 +15,7 @@
 ----------
 
 ## 🧚활동 중인 project
-- didimdol에서 CNU Judge 문제들을 PR해서 평가받음
+- didimdol/dAiv 에서 CNU Judge 문제들을 PR해서 평가받음
 -----------
 
 ## 🪪Badge 자랑
