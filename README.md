@@ -1,24 +1,26 @@
-## 👋Intro
+
+## 👋 Intro
 - Hi, I'm Coding fetus
-- 충남대학교 인공지능학과 1학년
+- located_in: Daejeon, South Korea
+- CNU AI Freshman
 ------
 
-## 🤸‍♀️이력
-- CNU Judge compile error 상당 수 보유
+## 🤸‍♀️ Career
+- Got plenty of CNU Judge compile error
 - Baekjun 어제부터 시작함
 - python 시작한 지 무려 한 달 됨
 - python을 enjoy 하고 있음
 ----------
 
-## 🧚활동 중인 project
+## 🧚 projects
 - didimdol/dAiv 에서 CNU Judge 문제들을 PR해서 평가받음
 -----------
 
-## 🪪Badge 자랑
+## 📝 Language
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-멋 지 지 ? ? ? ?
-2학기 되면 javascript도 추가할거야~~~~~~
-
+------------
+##💻 IDEs
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 
 <!--
 **Codingfetus/Codingfetus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
