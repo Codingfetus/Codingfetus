@@ -1,10 +1,6 @@
 ## 👋Intro
 - Hi, I'm Coding fetus
 - 충남대학교 인공지능학과 1학년
-- repository 만들기 실습 중
-- git 특강 진행 중
-- 재밌습니다
-- markdown 문법 배워야겠다~
 ------
 
 ## 🤸‍♀️이력
