@@ -20,8 +20,10 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 ------------
 
-##💻 IDEs
+## 💻 IDEs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+
+------------
 
 <!--
 **Codingfetus/Codingfetus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
