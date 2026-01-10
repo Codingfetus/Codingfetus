@@ -22,7 +22,7 @@
 
 ## 💻 IDEs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-
+<img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=white" alt="IntelliJ IDEA">
 ------------
 
 <!--
