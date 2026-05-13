@@ -2,7 +2,7 @@
 ## 👋 Intro
 - Hi, I'm Coding fetus
 - located_in: Daejeon, South Korea
-- CNU AI Freshman
+- CNU AI Sophomore
 ------
 
 ## 🤸‍♀️ Career
